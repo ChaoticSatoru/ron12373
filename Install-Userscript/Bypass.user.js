@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://greasyfork.org/en/scripts/493960-arceus-bypass
-// @version     2.6.2
+// @version     2.6.3
 // @description Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise, panda, etc,...
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -38,6 +38,7 @@
 // @match       *://*.sub2get.com/*
 // @match       *://boost.ink/*
 // @match       *://social-unlock.com/*
+// @match       *://getkey.relzscript.xyz/*
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
