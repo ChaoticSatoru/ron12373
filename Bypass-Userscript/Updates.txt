@@ -1,3 +1,1 @@
-Fixed ads.luarmor.net (linkvertise & loot-links bypass)
-Fixed NSHUB bypass
-Update userscript box (might get back to old soon)
+test (what?)
