@@ -1,2 +1,1 @@
-Improve speed keyrblx bypass
-Fixed loot-links & lootlabs (all includes) bypass
+Fixed connect url
