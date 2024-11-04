@@ -1,3 +1,2 @@
-Fixed ads.luarmor.net (linkvertise & loot-links bypass)
-Fixed NSHUB bypass
-Update install userscript box
+Improve speed keyrblx bypass
+Fixed loot-links & lootlabs (all includes) bypass
