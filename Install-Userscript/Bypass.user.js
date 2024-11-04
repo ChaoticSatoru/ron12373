@@ -54,14 +54,13 @@
 // @connect     short-jambo.com
 // @connect     api.codex.lol
 // @connect     cdn.jsdelivr.net
-// @connect     fluxteam.net
 // @connect     spdmteam.com
 // @connect     api-gateway.platoboost.com
-// @connect     api.valyse.best
 // @connect     api.keyrblx.com
+// @connect     keyrblx.com
+// @connect     gateway.platoboost.com
 // @connect     pandadevelopment.net
 // @connect     hohohubv-ac90f67762c4.herokuapp.com
-// @connect     tsuo-script.xyz
 // @icon        https://cdn141.picsart.com/351217840073211.png
 // @downloadURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
 // @updateURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
