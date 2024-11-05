@@ -29,7 +29,7 @@
 // @match       *://*.hcaptcha.com/*captcha*
 // @match       *://bot-hosting.net/panel/*
 // @match       *://trigonevo.com/getkey/?hwid=*
-// @match       *://trigonevo.fun/whitelist/?HWID=*
+// @match       *://trigonevo.fun/whitelist/*
 // @match       *://work.ink/*/*
 // @match       *://workink.net/*/*
 // @match       *://paster.so/*
