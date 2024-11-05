@@ -1,2 +1,1 @@
-Remove copy API Key button
-Add auto enter APIKEY userscript install
+Fixed trigon bypass after renew
