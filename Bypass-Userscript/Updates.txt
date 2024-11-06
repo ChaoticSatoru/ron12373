@@ -1,8 +1,1 @@
-Improve speed loot-links cryptic bypass
-Fixed trigon bypass after renew
-Add remove lootlabs ads blocker
-Update install userscript box (now it will enter the apikey for you)
-Remove Copy API Key button
-Change logs APIKEY
-Improve speed some keyrblx service bypass
-Fixed fallback linkvertise bypass
+Fixed hoho linkvertise bypass
