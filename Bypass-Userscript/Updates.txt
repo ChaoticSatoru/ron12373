@@ -1,1 +1,2 @@
-add mendationforc bypass [beta]
+Add mendationforc bypass [beta]
+Fixed sub2unlock bypass
