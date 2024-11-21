@@ -1,2 +1,1 @@
-Add mendationforc bypass [beta]
-Fixed sub2unlock.io bypass
+Add fluxus bypass
