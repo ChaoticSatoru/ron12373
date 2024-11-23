@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://greasyfork.org/en/scripts/493960-arceus-bypass
-// @version     2.8.5
+// @version     2.8.6
 // @description Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise, panda, etc,...
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -44,18 +44,18 @@
 // @match       *://sub4unlock.com/*
 // @match       *://mendationforc.info/*
 // @match       *://flux.li/android/external/start.php?HWID=*
-// @match       *://bypass-fluxus.vercel.app/*
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
 // @require     https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
-
+// @require     https://update.greasyfork.org/scripts/484331/1308737/customnotifications.js
+// @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @run-at      document-end
+// @grant       GM_getResourceText
 // @grant       GM_xmlhttpRequest
 // @grant       GM_notification
 // @grant       GM_openInTab
 // @grant       GM_addStyle
-
 // @license     Bacon
 // @connect     linkvertise.com
 // @connect     short-jambo.com
