@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
-// @namespace   https://greasyfork.org/en/scripts/493960-arceus-bypass
+// @namespace   https://tampermonkey.net/
 // @version     2.8.7
 // @description Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise, panda, etc,...
 // @author      Bacon But Pro
