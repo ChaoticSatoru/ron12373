@@ -2,10 +2,11 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     2.8.8
+// @version     2.8.9
 // @description Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise, panda, etc,...
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
+// @match       *://linkvertise.com/?iwantbypass=*
 // @match       *://socialwolvez.com/*
 // @match       *://rekonise.com/*
 // @match       *://mboost.me/a/*
