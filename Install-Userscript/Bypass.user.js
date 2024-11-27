@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     2.8.7
+// @version     2.8.8
 // @description Bypass Arceus, Hydrogen, Delta, Trigon, Vegax, Codex, Linkvertise, panda, etc,...
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -44,6 +44,7 @@
 // @match       *://sub4unlock.com/*
 // @match       *://mendationforc.info/*
 // @match       *://flux.li/android/external/start.php?HWID=*
+// @match       *://ads.luarmor.net/*
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
@@ -66,6 +67,7 @@
 // @connect     api.keyrblx.com
 // @connect     keyrblx.com
 // @connect     gateway.platoboost.com
+// @connect     ads.luarmor.net
 // @connect     pandadevelopment.net
 // @connect     hohohubv-ac90f67762c4.herokuapp.com
 // @icon        https://cdn141.picsart.com/351217840073211.png
