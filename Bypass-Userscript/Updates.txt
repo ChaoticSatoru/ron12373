@@ -1,2 +1,5 @@
-Added bypass detected ads.luarmor [Beta]
-Improve speed ads.luarmor bypass
+Fixed pandadevelopment adlink bypass
+Fixed pandadevelopment Modal Requirements bypass 
+Fixed pandadevelopment providers choose
+Fixed keyrblx success notification
+Fixed spamming error
