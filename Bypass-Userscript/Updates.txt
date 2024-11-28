@@ -1,1 +1,2 @@
-Fixed ads luarmor bypass
+Added bypass detected ads.luarmor [Beta]
+Improve speed ads.luarmor bypass
