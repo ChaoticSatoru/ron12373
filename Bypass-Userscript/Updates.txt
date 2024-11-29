@@ -1,5 +1,3 @@
-Fixed pandadevelopment adlink bypass
-Fixed pandadevelopment Modal Requirements bypass 
-Fixed pandadevelopment providers choose
-Fixed keyrblx success notification
-Fixed pandadevelopment spamming error
+Recode function ads.luarmor
+Fixed some error didn't bypass url
+add notification for ads.luarmor
