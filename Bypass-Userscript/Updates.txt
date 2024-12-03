@@ -1,3 +1,4 @@
-Recode function ads.luarmor
-Fixed some error ads.luarmor didn't bypass adlink url
-Add notification for ads.luarmor
+Improve ads.luarmor bypass
+Update notification box
+Improve speed fluxus bypass (10s ----> 2s)
+Remove some function bypass
