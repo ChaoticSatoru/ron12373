@@ -1,6 +1,1 @@
-fixed ads.luarmor bypass (temporarily)
-fixed keyrblx bypass (temporarily)
-Fixed sub2get bypass
-Fixed sub2unlock bypass
-Fixed trigon bypass (temporarily)
-Fixed linkvertise bypass (temporarily)
+Fixed work.ink bypass
