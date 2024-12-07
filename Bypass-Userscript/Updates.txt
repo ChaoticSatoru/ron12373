@@ -1,1 +1,2 @@
-Fixed work.ink bypass (temporarily)
+Fixed linkvertise bypass
+Fixed trigon bypass
