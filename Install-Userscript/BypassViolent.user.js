@@ -72,8 +72,8 @@
 // @connect     pandadevelopment.net
 // @connect     hohohubv-ac90f67762c4.herokuapp.com
 // @icon        https://cdn141.picsart.com/351217840073211.png
-// @downloadURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
-// @updateURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
+// @downloadURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/BypassViolent.user.js
+// @updateURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/BypassViolent.user.js
 // ==/UserScript==
 
 function APIKEY() {
