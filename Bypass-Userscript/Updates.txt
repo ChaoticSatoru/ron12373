@@ -1,1 +1,4 @@
-Improve Linkvertise & Lootlabs Bypass
+Fixed lootlabs bypass
+Fixed socialunlock bypass
+Fixed boostink bypass
+Improve keyrblx & ads luarmor bypass
