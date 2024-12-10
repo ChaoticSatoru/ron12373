@@ -1,2 +1,1 @@
-Fixed linkvertise bypass
-Fixed trigon bypass
+Improve Linkvertise & Lootlabs Bypass
