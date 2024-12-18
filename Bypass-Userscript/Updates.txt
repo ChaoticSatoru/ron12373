@@ -1,4 +1,1 @@
-Fixed lootlabs bypass
-Fixed socialunlock bypass
-Fixed boostink bypass
-Improve keyrblx, ads luarmor, trigon bypass
+Beta version updates (no list)
