@@ -1,1 +1,2 @@
 Fixed Bypass for Linkvertise and lootlabs
+Remove violentmonkey support extension
