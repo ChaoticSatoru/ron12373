@@ -34,7 +34,6 @@
 // @match       *://work.ink/*/*
 // @match       *://workink.net/*/*
 // @match       *://paster.so/*
-// @match       *://bstlar.com/*
 // @match       *://sub2unlock.com/*
 // @match       *://*.sub2get.com/*
 // @match       *://boost.ink/*
