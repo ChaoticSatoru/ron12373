@@ -1,1 +1,6 @@
-Improve speed lootlabs bypass
+Fixed codex bypass
+Delay 1s for lootlabs bypass
+Update Arceus bypass should faster now
+Fixed pandadevelopment service Argon Got detected bypass
+Add support rekonise, work.ink adlink for keyrblx (temporarily working)
+Remove support lootlabs adlink for pandadevelopment | Add back soon
