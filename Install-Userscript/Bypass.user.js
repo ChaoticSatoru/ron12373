@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.0.3
+// @version     3.0.4
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -44,6 +44,7 @@
 // @match       *://sub4unlock.com/*
 // @match       *://mendationforc.info/*
 // @match       *://flux.li/android/external/start.php?HWID=*
+// @match       *://flux.li/android/external/check1.php*
 // @match       *://ads.luarmor.net/*
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
