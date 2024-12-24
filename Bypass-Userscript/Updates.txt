@@ -1,1 +1,2 @@
-Fixed fluxus bypass
+Improve speed Ads luarmor & keyrblx bypass
+Fixed Bypass detected ads luarmor (should bypass faster now)
