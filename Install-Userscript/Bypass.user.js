@@ -59,6 +59,7 @@
 // @grant       GM_notification
 // @grant       GM_openInTab
 // @grant       GM_addStyle
+// @grant       GM_setClipboard
 // @license     Bacon
 // @connect     linkvertise.com
 // @connect     short-jambo.com
