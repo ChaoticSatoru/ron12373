@@ -2,3 +2,4 @@ Fixed defined for keyrblx
 Improve codex bypass (Might be 100% success)
 Fixed pandadevelopment service rinnshubv1 bypass
 Add config (Beta)
+Disable old fluxus bypass
