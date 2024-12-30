@@ -84,8 +84,8 @@ function APIKEY() {
 }
 
 function config() {
-    const fluxus_copy = true;
-    const keyrblx_copy = true;
-    const panda_copy = true;
+    const fluxus_copy = false;
+    const keyrblx_copy = false;
+    const panda_copy = false;
     return { fluxus_copy, keyrblx_copy, panda_copy };
 }
