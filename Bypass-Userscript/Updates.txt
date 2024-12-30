@@ -1,2 +1,4 @@
-Improve speed Ads luarmor & keyrblx bypass
-Fixed Bypass detected ads luarmor (should bypass faster now)
+Fixed defined for keyrblx
+Improve codex bypass (Might be 100% success)
+Fixed pandadevelopment service rinnshubv1 bypass
+Add config (Beta)
