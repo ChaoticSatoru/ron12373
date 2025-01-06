@@ -91,6 +91,6 @@ function config() {
 }
 
 function others() {
-    const linkvertise_Premium = true; // enable if have linkvertise premium only
+    const linkvertise_Premium = false; // enable if have linkvertise premium only
     return linkvertise_Premium;
 }
