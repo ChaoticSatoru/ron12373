@@ -89,3 +89,8 @@ function config() {
     const panda_copy = false; // enable to auto copy Pandadevelopment key
     return { fluxus_copy, keyrblx_copy, panda_copy };
 }
+
+function others() {
+    const linkvertise_Premium = true; // enable if have linkvertise premium only
+    return linkvertise_Premium;
+}
