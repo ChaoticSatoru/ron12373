@@ -84,8 +84,8 @@ function APIKEY() {
 }
 
 function config() {
-    const fluxus_copy = false;
-    const keyrblx_copy = false;
-    const panda_copy = false;
+    const fluxus_copy = false; // enable to auto copy Fluxus key
+    const keyrblx_copy = false; // enable to auto copy Keyrblx key
+    const panda_copy = false; // enable to auto copy Pandadevelopment key
     return { fluxus_copy, keyrblx_copy, panda_copy };
 }
