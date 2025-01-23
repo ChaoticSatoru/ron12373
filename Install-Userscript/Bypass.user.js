@@ -58,6 +58,7 @@
 // @match       *://88betaz.com/*
 // @match       *://bet88es.com/*
 // @match       *://www.google.com/search?q=https*
+// @match       *://auth.platoboost.com/*
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
@@ -95,10 +96,11 @@ function APIKEY() {
 }
 
 function config() {
-    const fluxus_copy = false; // enable to auto copy Fluxus key
-    const keyrblx_copy = false; // enable to auto copy Keyrblx key
-    const panda_copy = false; // enable to auto copy Pandadevelopment key
-    return { fluxus_copy, keyrblx_copy, panda_copy };
+    const fluxus_copy = true; // enable to auto copy Fluxus key
+    const keyrblx_copy = true; // enable to auto copy Keyrblx key
+    const panda_copy = true; // enable to auto copy Pandadevelopment key
+    const platoboost_copy = true;
+    return { fluxus_copy, keyrblx_copy, panda_copy, platoboost_copy };
 }
 
 function others() {
