@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.1.3
+// @version     3.1.4
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -59,6 +59,8 @@
 // @match       *://bet88es.com/*
 // @match       *://www.google.com/search?q=https*
 // @match       *://auth.platoboost.com/*
+// @require     https://greasyfork.org/scripts/372672-everything-hook/code/Everything-Hook.js?version=881251
+// @require     https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/TimerHooker.js
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
@@ -72,6 +74,7 @@
 // @grant       GM_openInTab
 // @grant       GM_addStyle
 // @grant       GM_setClipboard
+// @grant       none
 // @license     Bacon
 // @connect     linkvertise.com
 // @connect     short-jambo.com
