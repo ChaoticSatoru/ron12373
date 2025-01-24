@@ -1,3 +1,4 @@
+// This is timer hooker userscript code, not made by Me!
 window.isDOMLoaded = false;
 window.isDOMRendered = false;
 
