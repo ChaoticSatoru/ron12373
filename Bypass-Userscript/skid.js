@@ -1,38 +1,3 @@
-// ==UserScript==
-// @name            TimerHooker English Version
-// @name:en         TimerHooker English Version
-// @version         1.2.1
-// @description     Control page timer speed | Speed up to skip page timing ads | Video fast forward (slow play) | Skip ads | Support almost all web pages.
-// @description:en  it can hook the timer speed to change.
-// @include         *
-// @require         https://greasyfork.org/scripts/372672-everything-hook/code/Everything-Hook.js?version=881251
-// @author          Tiger 27
-// @match           *://paster.so/*
-// @run-at          document-start
-// @grant           none
-// @license         GPL-3.0-or-later
-// @namespace https://
-// @downloadURL https://update.greasyfork.org/scripts/438894/TimerHooker%20English%20Version.user.js
-// @updateURL https://update.greasyfork.org/scripts/438894/TimerHooker%20English%20Version.meta.js
-// ==/UserScript==
-/**
- * ---------------------------
- * Time: 2022/1/20 16:11.
- * Author: Tiger 27
- * View: http://
- * ---------------------------
- */
-
-/**
- * 1. hook Object.defineProperty | Object.defineProperties
- * 2. set configurable: true
- * 3. delete property
- * 4. can set property for onxx event method
- */
-
-// notes this not make by me creadits: Timer Hooker :)
-
-
 window.isDOMLoaded = false;
 window.isDOMRendered = false;
 
