@@ -1,1 +1,2 @@
-Fixed lootlabs bypass
+Fixed paster.so bypass
+Add platoboost copy
