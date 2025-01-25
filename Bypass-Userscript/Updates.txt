@@ -1,2 +1,3 @@
-Fixed paster.so bypass
-Added platoboost copy
+Fixed GM.getResourceText is not a function
+Fixed auto copy platoboost_copy
+remove paster.so bypass
