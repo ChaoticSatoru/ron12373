@@ -42,9 +42,7 @@
 // @match       *://bloggingdaze.com/*
 // @match       *://sub4unlock.com/*
 // @match       *://mendationforc.info/*
-// @match       *://flux.li/android/external/start.php?HWID=*
-// @match       *://flux.li/android/external/check1.php*
-// @match       *://flux.li/android/external/main.php*
+// @match       *://flux.li/android/external/*
 // @match       *://ads.luarmor.net/*
 // @match       *://auth.platoboost.com/*
 // @match       *://bstlar.com/*
