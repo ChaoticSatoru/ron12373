@@ -1,2 +1,3 @@
 Recode work.ink and bstlar function
-Add auto save config
+Add auto save config (only work with install button from userscript)
+Remove some @connect
