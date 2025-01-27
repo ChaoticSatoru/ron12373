@@ -58,6 +58,8 @@
 // @grant       GM_openInTab
 // @grant       GM_addStyle
 // @grant       GM_setClipboard
+// @grant       GM_setValue
+// @grant       GM_getValue
 // @license     Bacon
 // @connect     linkvertise.com
 // @connect     short-jambo.com
