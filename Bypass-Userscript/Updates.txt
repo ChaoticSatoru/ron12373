@@ -1,1 +1,2 @@
-Deleted some //@match not using
+Recode work.ink and bstlar function
+Add auto save config
