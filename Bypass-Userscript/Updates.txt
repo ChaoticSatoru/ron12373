@@ -1,5 +1,5 @@
 Recode work.ink and bstlar function
-Add auto save config (only work with install button from userscript)
+Add auto save config (only works with the install button from userscript)
 Remove some @connect
 Fixed mboost, socialwolvez bypass
 Improve trigon bypass
