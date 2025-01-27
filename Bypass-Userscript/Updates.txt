@@ -1,3 +1,6 @@
 Recode work.ink and bstlar function
 Add auto save config (only work with install button from userscript)
 Remove some @connect
+Fixed mboost, socialwolvez bypass
+Improve trigon bypass
+Fixed codex bypass return undefined at start
