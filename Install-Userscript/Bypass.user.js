@@ -47,8 +47,6 @@
 // @match       *://auth.platoboost.com/*
 // @match       *://bstlar.com/*
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
-// @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
-// @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
 // @require     https://update.greasyfork.org/scripts/484331/1308737/customnotifications.js
 // @require     https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
