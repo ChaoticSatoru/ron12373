@@ -1,6 +1,1 @@
-Recode work.ink and bstlar function
-Add auto save config (only works with the install button from userscript)
-Remove some @connect
-Fixed mboost, socialwolvez bypass
-Improve trigon bypass
-Fixed codex bypass return undefined at start
+add yeu money bypass (make by phantatdung)
