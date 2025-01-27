@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.1.7
+// @version     3.1.8
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -79,10 +79,10 @@ function APIKEY() {
 }
 
 function config() {
-    const fluxus_copy = true; // enable to auto copy Fluxus key
-    const keyrblx_copy = true; // enable to auto copy Keyrblx key
-    const panda_copy = true; // enable to auto copy Pandadevelopment key
-    const platoboost_copy = true; // enable to auto copy Platoboost key
+    const fluxus_copy = false; // enable to auto copy Fluxus key
+    const keyrblx_copy = false; // enable to auto copy Keyrblx key
+    const panda_copy = false; // enable to auto copy Pandadevelopment key
+    const platoboost_copy = false; // enable to auto copy Platoboost key
     return { fluxus_copy, keyrblx_copy, panda_copy, platoboost_copy };
 }
 
