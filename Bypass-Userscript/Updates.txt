@@ -1,1 +1,2 @@
-add yeu money bypass (make by phantatdung)
+Fixed yeu money box show every link
+Improve speed yeu money bypass 70s > 1s
