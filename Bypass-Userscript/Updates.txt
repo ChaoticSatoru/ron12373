@@ -1,2 +1,2 @@
-Fixed some rekonise link not bypass
-Fixed ads luarmor detected bypass (maybe)
+Add whitelist IP check
+Fixed connect timeout
