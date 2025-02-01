@@ -1,2 +1,1 @@
-Fixed show alert at start for spdm
-Update new relz getkey url
+Disable check IP && Disable check APIKEY
