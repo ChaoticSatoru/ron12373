@@ -1,2 +1,2 @@
 Fixed show alert at start for spdm
-Update new relz url
+Update new relz getkey url
