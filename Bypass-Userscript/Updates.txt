@@ -1,2 +1,2 @@
-Add whitelist IP check
-Fixed connect timeout
+Fixed show alert at start for spdm
+Update new relz url
