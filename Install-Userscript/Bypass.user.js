@@ -37,7 +37,7 @@
 // @match       *://*.sub2get.com/*
 // @match       *://boost.ink/*
 // @match       *://social-unlock.com/*
-// @match       *://getkey.relzscript.xyz/*
+// @match       *://getkey.farrghii.com/*
 // @match       *://dusarisalary.com/*
 // @match       *://bloggingdaze.com/*
 // @match       *://sub4unlock.com/*
