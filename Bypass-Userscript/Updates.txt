@@ -1,2 +1,2 @@
 Add fallback checking
-Enable IP checking && Key checking
+Enable IP checking & Key checking
