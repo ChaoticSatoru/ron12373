@@ -1,2 +1,2 @@
-Add fallback checking
-Enable IP checking & Key checking
+Improve speed linkvertise & lootlabs bypass
+Fixed linkvertise bypass not working
