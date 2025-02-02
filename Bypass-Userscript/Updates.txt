@@ -1,1 +1,2 @@
-Disable check IP && Disable check APIKEY
+Add fallback checking
+Enable IP checking && Key checking
