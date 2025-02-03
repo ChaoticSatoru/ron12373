@@ -1,2 +1,3 @@
-Improve speed linkvertise & lootlabs bypass
-Fixed linkvertise bypass not working
+Fixed primary not using fallback after failed
+Fixed Keyrblx fallback api not working
+Fixed ads.luarmor fallback api not working
