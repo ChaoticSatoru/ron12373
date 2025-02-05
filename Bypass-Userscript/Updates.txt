@@ -1,3 +1,1 @@
-Fixed primary not using fallback after failed
-Fixed Keyrblx fallback api not working
-Fixed ads.luarmor fallback api not working
+Improve speed some service bypass
