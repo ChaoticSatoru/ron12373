@@ -1,2 +1,4 @@
-Recode updates url function
-maintenance is done
+Improve speed auto updates
+Fixed ads.luarmomor bypass detected (Testing so if still got blacklisted ping me)
+Add auto bypass yeumoney (For someone didn't know how to use)
+Improve speed trigon bypass
