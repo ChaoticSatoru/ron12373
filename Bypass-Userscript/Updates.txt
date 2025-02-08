@@ -1,4 +1,3 @@
-Improve speed auto updates
-Fixed ads.luarmomor bypass detected (Testing so if still got blacklisted ping me)
-Add auto bypass yeumoney (For someone didn't know how to use)
-Improve speed trigon bypass
+Improve speed lootlabs bypass (2 ~ 5s)
+Improve rate success for linkvertise
+Improve trigon bypass
