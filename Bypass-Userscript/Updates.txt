@@ -1,3 +1,3 @@
 Disable Console Output
 Debug Protection
-Debug Protection IntervalFixed lootlabs bypass not working
+Debug Protection Interval
