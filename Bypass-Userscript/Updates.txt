@@ -1,3 +1,1 @@
-Disable Console Output
-Debug Protection
-Debug Protection Interval
+Fixed auto updates not working
