@@ -90,6 +90,10 @@ function config() {
     return { fluxus_copy, keyrblx_copy, panda_copy, platoboost_copy };
 }
 
+function time_config() {
+    return { ads_luarmor: 5 }; // set delay bypass for ads.luarmor.net
+}
+
 function others() {
     const linkvertise_Premium = false; // enable if have linkvertise premium only
     const fallback_checking = false; // Set to true if the checking key is failed
