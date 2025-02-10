@@ -1,2 +1,2 @@
-Add notification load userscript
-Add config time bypass for ads.luarmor.net
+Fixed auto blacklist
+Auto blacklist with start IP
