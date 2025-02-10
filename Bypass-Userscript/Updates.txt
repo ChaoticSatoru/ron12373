@@ -1,2 +1,1 @@
-Fixed auto blacklist
-Added Auto blacklist with start IP
+Add delta client side bypass
