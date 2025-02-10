@@ -1,5 +1,2 @@
-Fixed userscript break cloudflare captcha
-Fixed userscript make web loading slow
-Improve speed lootlabs bypass
-Fixed fallback bypass trigon not working
-Add API.js to require
+Add notification load userscript
+Add config time bypass for ads.luarmor.net
