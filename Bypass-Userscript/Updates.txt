@@ -1,1 +1,2 @@
-Added client side 2 delta bypass
+Fixed auto copy delta (ios) not working
+Added Delta ios bypass
