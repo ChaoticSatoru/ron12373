@@ -1,1 +1,1 @@
-Add delta client side bypass
+Added client side 2 delta bypass
