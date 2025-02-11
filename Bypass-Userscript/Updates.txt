@@ -1,2 +1,3 @@
 Fixed auto copy delta (ios) not working
 Added Delta ios bypass
+Delay bypass delta client side 4 second (Avoid Detected)
