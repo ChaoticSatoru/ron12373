@@ -99,6 +99,6 @@ function others() {
     const linkvertise_Premium = false; // enable if have linkvertise premium only
     const fallback_checking = false; // Set to true if the checking key is failed
     const clientside_delta = false; // enable delta client side bypass (Beta)
-    const clientside2_delta = true; // enable delta client side bypass but location href to loot-link url (Beta)
+    const clientside2_delta = false; // enable delta client side bypass but location href to loot-link url (Beta)
     return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_delta };
 }
