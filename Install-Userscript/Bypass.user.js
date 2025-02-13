@@ -47,6 +47,7 @@
 // @match       *://bstlar.com/*
 // @match       *://yeumoney.com/*
 // @match       *://auth.platoboost.com/*
+// @match       *://auth.platoboost.net/*
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
 // @require     https://update.greasyfork.org/scripts/484331/1308737/customnotifications.js
