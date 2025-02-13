@@ -1,3 +1,2 @@
-Fixed auto copy delta (ios) not working
-Added Delta ios bypass
-Delay bypass delta client side 4 second (Avoid Detected)
+Added back lootlabs support for pandadevelopment
+Fixed lootlabs bypassing slowed (use api iwoozie instead)
