@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.4.6
+// @version     3.4.7
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -100,13 +100,17 @@ function config() {
 }
 
 function time_config() {
-    return { ads_luarmor: 5 }; // set delay bypass for ads.luarmor.net
+    return {
+        ads_luarmor: 5, // set delay bypass for ads.luarmor.net
+        linkvertise: 5 // set delay bypass for linkvertise.com
+    };
 }
 
 function others() {
     const linkvertise_Premium = false; // enable if have linkvertise premium only
-    const fallback_checking = false; // Set to true if the checking key is failed
+    const fallback_checking = true; // Set to true if the checking key is failed
     const clientside_delta = false; // enable delta client side bypass (Beta)
-    const clientside2_delta = false; // enable delta client side bypass but location href to loot-link url (Beta)
-    return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_delta };
+    const clientside2_delta = true; // enable delta client side bypass but location href to loot-link url
+    const clientside2_adsluarmor = false; // enable ads.luarmore client side bypass but location href to adlink url
+    return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_delta, clientside2_adsluarmor };
 }
