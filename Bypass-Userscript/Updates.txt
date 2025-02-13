@@ -3,3 +3,4 @@ Added linkvertise bypass time config
 Added new method ads.luarmor bypass
 Added support auth.platoboost.net for delta
 Added auto copy for auth.platoboost.net
+Fixed about:blank for client side bypass
