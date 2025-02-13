@@ -1,2 +1,5 @@
-Added back lootlabs support for pandadevelopment
-Fixed lootlabs bypassing slowed (use api iwoozie instead)
+Improve lootlabs bypass (Faster and get small Error)
+Added linkvertise bypass time config
+Added new method ads.luarmor bypass
+Added support auth.platoboost.net for delta
+Added auto copy for auth.platoboost.net
