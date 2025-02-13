@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.4.5
+// @version     3.4.6
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -44,7 +44,6 @@
 // @match       *://mendationforc.info/*
 // @match       *://flux.li/android/external/*
 // @match       *://ads.luarmor.net/*
-// @match       *://auth.platoboost.com/*
 // @match       *://bstlar.com/*
 // @match       *://yeumoney.com/*
 // @match       *://auth.platoboost.com/*
@@ -73,6 +72,15 @@
 // @connect     auth.platoboost.net
 // @connect     ads.luarmor.net
 // @connect     pandadevelopment.net
+// @connect     loot-link.com
+// @connect     loot-links.com
+// @connect     lootlink.org
+// @connect     lootlinks.co
+// @connect     lootdest.info
+// @connect     lootdest.org
+// @connect     lootdest.com
+// @connect     links-loot.com
+// @connect     linksloot.net
 // @icon        https://cdn141.picsart.com/351217840073211.png
 // @downloadURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
 // @updateURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
