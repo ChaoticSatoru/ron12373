@@ -1,6 +1,1 @@
-Improve lootlabs bypass (Faster and get small Error)
-Added linkvertise bypass time config
-Added new method ads.luarmor bypass
-Added support auth.platoboost.net for delta
-Added auto copy for auth.platoboost.net
-Fixed about:blank for client side bypass
+Error H_x097b can't check new updates
