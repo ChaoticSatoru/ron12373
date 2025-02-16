@@ -24,14 +24,31 @@
             <input type='text' id='fakeMsgText' style='width: 200px;'><br>
             <button id='applyFakeChange'>Apply</button>
             <button id='resetFakeChange'>Reset</button>
+            <button id='hideBox'>Hide</button>
             <span style='margin-left: 10px;'>By Bacon But Pro</span>
         `;
         document.body.appendChild(box);
 
+        let toggleButton = document.createElement("button");
+        toggleButton.id = "toggleBoxButton";
+        toggleButton.innerText = "Show";
+        toggleButton.style.position = "fixed";
+        toggleButton.style.bottom = "10px";
+        toggleButton.style.right = "10px";
+        toggleButton.style.background = "#7289da";
+        toggleButton.style.color = "white";
+        toggleButton.style.padding = "5px 10px";
+        toggleButton.style.border = "none";
+        toggleButton.style.borderRadius = "5px";
+        toggleButton.style.boxShadow = "0 0 5px rgba(0,0,0,0.3)";
+        toggleButton.style.zIndex = "9998";
+        toggleButton.style.display = "none";
+        document.body.appendChild(toggleButton);
+
         document.getElementById("applyFakeChange").addEventListener("click", () => {
             let msgId = document.getElementById("fakeMsgId").value.trim();
-            let newText = document.getElementById("fakeMsgText").value.trim();
-            if (msgId && newText) {
+            let newText = document.getElementById("fakeMsgText").value;
+            if (msgId && newText !== "") {
                 fakeEditMessage(msgId, newText);
             }
         });
@@ -43,6 +60,14 @@
             }
         });
 
+        document.getElementById("hideBox").addEventListener("click", () => {
+            toggleControlBox();
+        });
+
+        toggleButton.addEventListener("click", () => {
+            toggleControlBox();
+        });
+
         document.addEventListener("keydown", (event) => {
             if (event.key === "End") {
                 toggleControlBox();
@@ -52,8 +77,15 @@
 
     function toggleControlBox() {
         let box = document.getElementById("fakeMessageBox");
+        let toggleButton = document.getElementById("toggleBoxButton");
         if (box) {
-            box.style.display = boxVisible ? "none" : "block";
+            if (boxVisible) {
+                box.style.display = "none";
+                toggleButton.style.display = "block";
+            } else {
+                box.style.display = "block";
+                toggleButton.style.display = "none";
+            }
             boxVisible = !boxVisible;
         }
     }
