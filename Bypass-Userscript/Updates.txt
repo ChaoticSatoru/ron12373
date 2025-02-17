@@ -1,2 +1,1 @@
-Fixed notification show on hcaptcha
-Fixed client side 1 delta not working
+Fixed lootlabs bypass not working
