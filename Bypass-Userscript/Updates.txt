@@ -1,1 +1,6 @@
-Fixed lootlabs bypass not working
+Added support for auth.platorelay.com
+Added auto copy for auth.platorelay.com
+Fixed the userscript break cloudflare
+Fixed userscript make web slowed
+Fixed Error URL not found in the response data for platoboost
+Fixed client side 1 platoboost didn't working
