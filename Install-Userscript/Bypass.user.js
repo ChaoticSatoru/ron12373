@@ -111,7 +111,7 @@ function time_config() {
 function others() {
     const linkvertise_Premium = false; // enable if have linkvertise premium only
     const fallback_checking = false; // Set to true if the checking key is failed
-    const clientside_delta = true; // enable delta client side bypass (Beta)
+    const clientside_delta = false; // enable delta client side bypass (Beta)
     const clientside2_adsluarmor = false; // enable ads.luarmore client side bypass but location href to adlink url
     return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_adsluarmor };
 }
