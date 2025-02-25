@@ -1,4 +1,3 @@
-Remove client side bypass 2 (platoboost)
-Recode platoboost function
-Recode Codex function (99% success bypass)
-Improve speed lootlabs bypass
+Change to new primary API
+Fixed check version primary api not working
+Fixed the userscript make web loading slowed (again)
