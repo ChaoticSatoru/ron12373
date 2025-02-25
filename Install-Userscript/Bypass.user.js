@@ -114,5 +114,5 @@ function others() {
     const clientside_delta = false; // enable delta client side bypass (Beta)
     const clientside2_adsluarmor = false; // enable ads.luarmore client side bypass but location href to adlink url
     const instant_keyrblx = false; // enable instants keyrblx bypass
-    return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_adsluarmor };
+    return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_adsluarmor, instant_keyrblx };
 }
