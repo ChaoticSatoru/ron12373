@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.5.3
+// @version     3.5.4
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -83,6 +83,8 @@
 // @connect     lootdest.com
 // @connect     links-loot.com
 // @connect     linksloot.net
+// @connect     auth.platorelay.com
+// @connect     auth.platoboost.com
 // @icon        https://cdn141.picsart.com/351217840073211.png
 // @downloadURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
 // @updateURL https://github.com/BaconButPro/ron12373/raw/Premium/Install-Userscript/Bypass.user.js
@@ -113,6 +115,5 @@ function others() {
     const fallback_checking = false; // Set to true if the checking key is failed
     const clientside_delta = false; // enable delta client side bypass (Beta)
     const clientside2_adsluarmor = false; // enable ads.luarmore client side bypass but location href to adlink url
-    const instant_keyrblx = false; // enable instants keyrblx bypass
-    return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_adsluarmor, instant_keyrblx };
+    return { linkvertise_Premium, fallback_checking, clientside_delta, clientside2_adsluarmor };
 }
