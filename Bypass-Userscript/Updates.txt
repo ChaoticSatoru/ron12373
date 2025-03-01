@@ -1,3 +1,2 @@
-Added instants keyrblx bypass config
-Fixed linkvertise keyrblx alway failed
-Delay bypass linkvertise keyrblx ---> 10s (Avoid detected)
+Auto using instant keyrblx bypass
+Added instant bypass linkvertise delta ios
