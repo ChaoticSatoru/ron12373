@@ -1,2 +1,1 @@
-Add lootlabs bypass config
-Remove client2 adsluarmor
+Fixed bstlar bypass
