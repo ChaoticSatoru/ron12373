@@ -53,7 +53,7 @@
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
 // @require     https://update.greasyfork.org/scripts/484331/1308737/customnotifications.js
 // @require     https://github.com/ChaoticSatoru/ron12373/blob/Premium/Bypass-Userscript/API.js
-// @require     https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/Main.js
+// @require     https://github.com/ChaoticSatoru/ron12373/blob/Premium/Bypass-Userscript/Main.js
 // @run-at      document-end
 // @grant       GM_getResourceText
 // @grant       GM_xmlhttpRequest
