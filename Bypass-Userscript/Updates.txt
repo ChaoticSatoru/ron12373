@@ -1,1 +1,2 @@
-Fixed bstlar bypass
+Fixed codex spaming
+Delay codex bypass per step (500 millisecond)
