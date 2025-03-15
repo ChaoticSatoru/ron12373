@@ -1,1 +1,2 @@
-Added background animated for Key checking
+Added krnl bypass
+Added krnl and keyguardian auto copy
