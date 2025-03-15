@@ -2,7 +2,7 @@
 // @name        Bypass Key System
 // @homepageURL https://discord.gg/gFNAH7WNZj
 // @namespace   https://tampermonkey.net/
-// @version     3.6.0
+// @version     3.6.1
 // @description A userscript designed to bypass restrictions and streamline user experiences by automating bypass processes for various stages and challenges
 // @author      Bacon But Pro
 // @match       *://linkvertise.com/*/*
@@ -49,6 +49,8 @@
 // @match       *://auth.platoboost.com/*
 // @match       *://auth.platoboost.net/*
 // @match       *://auth.platorelay.com/*
+// @match       *://keyguardian.org/*
+// @match       *://krnl.cat/checkpointv2/*
 // @resource    notifCss https://cdn.jsdelivr.net/gh/f3oall/awesome-notifications/dist/style.css
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
 // @require     https://update.greasyfork.org/scripts/484331/1308737/customnotifications.js
@@ -100,7 +102,9 @@ function config() {
     const keyrblx_copy = false; // enable to auto copy Keyrblx key
     const panda_copy = false; // enable to auto copy Pandadevelopment key
     const platoboost_copy = false; // enable to auto copy Platoboost key
-    return { fluxus_copy, keyrblx_copy, panda_copy, platoboost_copy };
+    const keyguardian_copy = false; // enable to auto copy keyguardian key
+    const krnl_copy = false; // enable to auto copy Krnl key
+    return { fluxus_copy, keyrblx_copy, panda_copy, platoboost_copy, keyguardian_copy, krnl_copy };
 }
 
 function time_config() {
