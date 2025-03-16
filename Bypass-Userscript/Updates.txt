@@ -1,2 +1,2 @@
-Fixed codex spaming
-Delay codex bypass per step (500 millisecond)
+Added krnl bypass
+Added krnl and keyguardian auto copy
